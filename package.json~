@@ -1,0 +1,9 @@
+{
+  "name": "english_wordnet",
+  "title": "IndoWordNet-English WordNet",
+  "id": "",
+  "description": "WordNet® is a large lexical database of English. Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (synsets), each expressing a distinct concept.",
+  "author": "Diptesh Kanojia (CFILT)",
+  "license": "MPL 2.0",
+  "version": "0.0.1"
+}
